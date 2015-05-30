@@ -1,0 +1,11 @@
+# Site settings
+title: それくらいでよかろうもん
+#email: your-email@domain.com
+description: > # あああああああああああああああああああああああああああああああああああああああああああああああああああああああ.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://inokappa.github.io" # the base hostname & protocol for your site
+twitter_username: inokara
+github_username:  inokappa
+
+# Build settings
+markdown: kramdown
